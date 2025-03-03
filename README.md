@@ -8,5 +8,5 @@ The system allows for performing various banking transactions, such as depositin
   <br>
 <li>InterestRewardsAcc: A subclass of BankAccount that adds a 5% interest on deposits.</li>
   <br>
-<li></li>SavingsAcc: A subclass of InterestRewardsAcc that applies a 5-unit fee on withdrawals.</ul>
+<li>SavingsAcc: A subclass of InterestRewardsAcc that applies a 5-unit fee on withdrawals.</li>
 </ul>
